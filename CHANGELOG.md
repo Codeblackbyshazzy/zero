@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## [Unreleased]
 
-## [v2026.7.8]
+## [v2026.7.9]
 
 ### Added
 
@@ -81,8 +81,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 - **Self-upgrade** — `zero upgrade --server` updates zero remotely
 - **CLI binaries** — prebuilt for Linux, macOS, and Windows
 
-[Unreleased]: https://github.com/shipzero/zero/compare/v2026.7.8...HEAD
-[v2026.7.8]: https://github.com/shipzero/zero/compare/v2026.6.26...v2026.7.8
+[Unreleased]: https://github.com/shipzero/zero/compare/v2026.7.9...HEAD
+[v2026.7.9]: https://github.com/shipzero/zero/compare/v2026.6.26...v2026.7.9
 [v2026.6.26]: https://github.com/shipzero/zero/compare/v2026.5.18...v2026.6.26
 [v2026.5.18]: https://github.com/shipzero/zero/compare/v2026.5.6...v2026.5.18
 [v2026.5.6]: https://github.com/shipzero/zero/compare/v2026.4.8...v2026.5.6
